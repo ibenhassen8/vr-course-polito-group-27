@@ -1,9 +1,24 @@
 fileFormatVersion: 2
-guid: f2813f8ea9a704fa18f74afda1ab5a22
+guid: 471412a03a9f343d7b7d2ccd372b9d1b
 ModelImporter:
   serializedVersion: 24600
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cauldron
+    second: {fileID: 2100000, guid: bccdfcafb1c37498795e317445574a4b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Drova
+    second: {fileID: 2100000, guid: f8183f2e3a84f474589cf01539b2d2fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stone
+    second: {fileID: 2100000, guid: db71056ddab29404794b36f2663c90fe, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
@@ -49,7 +64,7 @@ ModelImporter:
     nodeNameCollisionStrategy: 1
     fileIdsGeneration: 2
     swapUVChannels: 0
-    generateSecondaryUV: 0
+    generateSecondaryUV: 1
     useFileUnits: 1
     keepQuads: 0
     weldVertices: 1
