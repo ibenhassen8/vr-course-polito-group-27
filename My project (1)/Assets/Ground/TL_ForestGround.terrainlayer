@@ -9,7 +9,7 @@ TerrainLayer:
   m_Name: TL_ForestGround
   m_DiffuseTexture: {fileID: 2800000, guid: aa713990acce64c74840201f77e39534, type: 3}
   m_NormalMapTexture: {fileID: 2800000, guid: 65cfcc30929224e98895a1052c757d6c, type: 3}
-  m_MaskMapTexture: {fileID: 2800000, guid: 5dfb872518ea9472f91c091404d8df2e, type: 3}
+  m_MaskMapTexture: {fileID: 2800000, guid: 736dae39b7ee3421b8a680faaa27c164, type: 3}
   m_TileSize: {x: 10, y: 10}
   m_TileOffset: {x: 0, y: 0}
   m_Specular: {r: 0, g: 0, b: 0, a: 0}
